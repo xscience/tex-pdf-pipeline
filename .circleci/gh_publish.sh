@@ -26,9 +26,9 @@ ls
 # 2. in published project `version.txt`
 #########
 # Variables MUST UPDATED
-G_GIT_EMAIL=x.meng@outlook.com  # update to your email address which will be used as commit author
-G_GIT_NAME="Xin Meng"           # update to your name which will be used as commit author
-PUBLISH_GIT_REPO=git@github.com:xmeng1/texpdf.git # update to your repo for publish web page with PDF files
+G_GIT_EMAIL=mengxin.science@gmail.com  # update to your email address which will be used as commit author
+G_GIT_NAME="X Science"           # update to your name which will be used as commit author
+PUBLISH_GIT_REPO=git@github.com:xscience/texpdf.git # update to your repo for publish web page with PDF files
 PUBLISH_GIT_BRANCH=master       # the branch used in the publish repo
 # MUST UPDATED END
 
